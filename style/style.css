@@ -180,11 +180,16 @@ hide{
 
     .container{
         top: 25%;
-        width: 98%;
+        width: 100%;
+        
+        
+        
+        
     }
 
     .content{
         text-align: center;
+        margin: 20px;
     }
 
     .container ul{
@@ -206,6 +211,5 @@ hide{
 
 
 /* medium Screen------------------------------------------------- */
-
 
 
