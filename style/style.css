@@ -181,7 +181,10 @@ hide{
     .container{
         top: 25%;
         width: 98%;
-        margin: 0 auto;
+    }
+
+    .content{
+        text-align: center;
     }
 
     .container ul{
@@ -191,6 +194,7 @@ hide{
     .container .content p{
         line-height: 25px;
         width: 100%;
+        padding: 0px 20px;
     }
 
     .more{
